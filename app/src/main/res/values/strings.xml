@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRankApp</string>
+    <string name="up_bt">Point Up !</string>
+    <string name="down_bt">Point Down !</string>
+    <string name="rank_point">Your Point : 0</string>
+    <string name="your_rank">THE 怠け者</string>
+    <string name="shop_bt">shop</string>
+    <string name="money">You have 0 point</string>
+    <string name="tentyo_word">・・・</string>
+</resources>
